@@ -1,4 +1,5 @@
 📊 Data Analytics Project: Customer Behavior Dashboard
+
 📌 Overview
 
 This project is an end-to-end data analytics workflow that transforms raw customer data into actionable business insights. It includes data cleaning, feature engineering, SQL-based querying, and an interactive Power BI dashboard.
@@ -51,5 +52,6 @@ Measured customer satisfaction using review ratings
 This project was developed as a guided learning project by following a tutorial and enhanced with minor modifications in data cleaning and feature engineering steps.
 
 👤 Author
+
 Areesha
 Aspiring Data Analyst | Interested in Data Science & AI
